@@ -1,22 +1,34 @@
-# Alireza Mahdavishirkharkolaei
+# Alireza Mahdavi Shirkharkolaei
 
-**Legal Researcher | International Economic Law | Cybersecurity Specialist**
+**Legal researcher in international economic law · building open legal-tech tools**
 
-I am a legal researcher with a strong academic background in **international economic law**, particularly in areas such as WTO law (GATS), international tax law, and regulatory compliance. My work focuses on the intersection of law, technology, and policy.
+LL.M. (Cyprus International University), with a thesis on the impact of tax havens on international trade law. I work where law meets code: WTO law (especially GATS), international tax (OECD Model, Pillar Two, country-by-country reporting), and the question of which legal rules can be turned into reliable software.
 
-### Expertise
-- **Legal Research**: International trade law, tax risk analysis, dispute resolution, and regulatory frameworks.
-- **Cybersecurity**: Specialist in cyber security, threat analysis, digital risk management, and the legal aspects of cybersecurity (cyber law).
-- **AI & Technology**: Developing AI-powered tools for legal and tax compliance (e.g., anomaly detection in multinational tax data and reasoning engines for GATS).
-
-### Current Focus
-Combining legal expertise with technical skills to build practical tools that help organizations navigate complex regulatory environments while maintaining strong cybersecurity posture.
+Based in Kyrenia, Cyprus · Persian · English · Turkish
 
 ---
 
-**Links**
-- [ResearchGate](https://www.researchgate.net/profile/Alireza-Mahdavishirkharkolaei)
-- [ORCID](https://orcid.org/0009-0003-3372-8671)
-- [SSRN](https://papers.ssrn.com/searchresults.cfm?term=Alireza+Mahdavishirkharkolaei)
+### Featured projects
 
-Open to collaboration on projects involving **legal tech**, **cyber law**, **AI for compliance**, and **international regulatory research**.
+| Project | What it does | Try it |
+|---|---|---|
+| [**TaxRiskScan**](https://github.com/AlirezaMahdavishirkharkolaei/Tax_Risk_AI) | Screens country-by-country reports for profit shifting and Pillar Two exposure. The model is trained on ~5,000 real public CbCR records (EU Tax Observatory), and every flag is linked to its EU or OECD legal basis. Includes a REST API, Docker and a research mode. | [web app](https://alirezamahdavishirkharkolaei.github.io/Tax_Risk_AI/) |
+| [**GATS Reasoning Engine**](https://github.com/AlirezaMahdavishirkharkolaei/wto-gats-reasoning-engine) | Walks a measure through the full GATS analysis, from scope, MFN and commitments to Arts. XVI and XVII, VI, XIV and XIV bis. Each step cites WTO disputes. Validated against *US – Gambling*, with scenarios on the EU Data Act. | [web app](https://alirezamahdavishirkharkolaei.github.io/wto-gats-reasoning-engine/) |
+| [**Legal-to-Code**](https://github.com/AlirezaMahdavishirkharkolaei/Legal-to-Code) | Rules of international economic law (OECD Model Tax Convention, WTO DSU) as tested, traceable code, with a *codifiability index* that classifies each provision as computable, structurable or not codifiable. | [web app](https://alirezamahdavishirkharkolaei.github.io/Legal-to-Code/) |
+
+### Research interests
+
+- WTO law and trade in services; EU digital regulation (Data Act) and the GATS
+- International tax: tax havens, profit shifting, Pillar Two, tax treaties
+- Rules as code and computational law
+- Cyber law and the legal aspects of cybersecurity
+
+### Tools I work with
+
+Python (pandas, scikit-learn, FastAPI, Streamlit), JavaScript, Pyodide, Docker, GitHub Actions; Odoo; technical SEO.
+
+---
+
+**Links:** [ORCID](https://orcid.org/0009-0003-3372-8671) · [ResearchGate](https://www.researchgate.net/profile/Alireza-Mahdavishirkharkolaei) · [SSRN](https://papers.ssrn.com/searchresults.cfm?term=Alireza+Mahdavishirkharkolaei)
+
+Open to collaboration on legal tech, AI for compliance, and international regulatory research.
